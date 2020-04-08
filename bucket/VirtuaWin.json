@@ -10,6 +10,17 @@
 	"hash": "bc01d29df3f3b3d317a0124b09c1ccd434334a1d49f92670197d9abf10ce2db1",
 	"bin": "VirtuaWin.exe",
 	"persist": ["config" ],
+	"persist": [
+		"config",
+		[
+			"virtuawin.cfg",
+			"config\\virtuawin.cfg"
+		],
+		[
+			"window.cfg",
+			"config\\window.cfg"
+		],
+	],
 	"checkver": {
 		"url": "https://virtuawin.sourceforge.io/?page_id=2",
 		"regex": "VirtuaWin ([\\d.]+)<\\/a>"
