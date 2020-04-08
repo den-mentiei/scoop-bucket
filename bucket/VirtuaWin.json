@@ -19,7 +19,7 @@
 		[
 			"window.cfg",
 			"config\\window.cfg"
-		],
+		]
 	],
 	"checkver": {
 		"url": "https://virtuawin.sourceforge.io/?page_id=2",
