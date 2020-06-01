@@ -1,19 +1,19 @@
 {
-	"homepage": "https://github.com/microsoft/perfview",
-	"description": "PerfView is a CPU and memory performance-analysis tool",
-	"license": {
-		"identifier": "MIT",
-		"url": "https://github.com/microsoft/perfview/blob/master/LICENSE.TXT"
-	},
-	"version": "2.0.55",
-	"url": "https://github.com/microsoft/perfview/releases/download/P2.0.55/PerfView.exe",
-	"hash": "849d8b963848114c2a383f420e02eb9462d795ea067ae95abcf34a087d820f6a",
-	"bin": "PerfView.exe",
-	"checkver": {
-		"github": "https://github.com/microsoft/perfview",
-		"regex": "\\/releases\\/tag\\/(?:p|P)?([\\d.]+)"
-	},
-	"autoupdate": {
-		"url": "https://github.com/microsoft/perfview/releases/download/P$version/PerfView.exe"
-	}
+    "homepage": "https://github.com/microsoft/perfview",
+    "description": "PerfView is a CPU and memory performance-analysis tool",
+    "license": {
+        "identifier": "MIT",
+        "url": "https://github.com/microsoft/perfview/blob/master/LICENSE.TXT"
+    },
+    "version": "2.0.56",
+    "url": "https://github.com/microsoft/perfview/releases/download/P2.0.56/PerfView.exe",
+    "hash": "1787cd49f37bfcab4b59f09a6d46acb48b8126ffa786009df1a5fe9cc3926c82",
+    "bin": "PerfView.exe",
+    "checkver": {
+        "github": "https://github.com/microsoft/perfview",
+        "regex": "\\/releases\\/tag\\/(?:p|P)?([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://github.com/microsoft/perfview/releases/download/P$version/PerfView.exe"
+    }
 }
