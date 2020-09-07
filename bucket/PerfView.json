@@ -5,9 +5,9 @@
         "identifier": "MIT",
         "url": "https://github.com/microsoft/perfview/blob/master/LICENSE.TXT"
     },
-    "version": "2.0.58",
-    "url": "https://github.com/microsoft/perfview/releases/download/P2.0.58/PerfView.exe",
-    "hash": "cd57167912bbc7e4cd21d7c6a283e5b1143d51fac920606c7486c7b3b5d7c75d",
+    "version": "2.0.59",
+    "url": "https://github.com/microsoft/perfview/releases/download/P2.0.59/PerfView.exe",
+    "hash": "73e1a62763bf149ebf575afa7d79bd22bfb7667181f1be8bc9b06cc4abd3f30a",
     "bin": "PerfView.exe",
     "checkver": {
         "github": "https://github.com/microsoft/perfview",
