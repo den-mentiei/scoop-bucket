@@ -1,16 +1,16 @@
 {
-	"homepage": "https://github.com/boyter/scc",
-	"description": "scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go",
-	"license": {
-		"identifier": "MIT",
-		"url": "https://github.com/boyter/scc/blob/master/LICENSE"
-	},
-	"version": "2.12.0",
-	"url": "https://github.com/boyter/scc/releases/download/v2.12.0/scc-2.12.0-x86_64-pc-windows.zip",
-	"hash": "094a01d1ce3ccb71c1ac07cd31d1aa9332559c141abb166d3e7b82f2abc969b8",
-	"bin": "scc.exe",
-	"checkver": "github",
-	"autoupdate": {
-		"url": "https://github.com/boyter/scc/releases/download/v$version/scc-$version-x86_64-pc-windows.zip"
-	}
+    "homepage": "https://github.com/boyter/scc",
+    "description": "scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go",
+    "license": {
+        "identifier": "MIT",
+        "url": "https://github.com/boyter/scc/blob/master/LICENSE"
+    },
+    "version": "2.13.0",
+    "url": "https://github.com/boyter/scc/releases/download/v2.13.0/scc-2.13.0-x86_64-pc-windows.zip",
+    "hash": "e71fffafb302b6ae4571ef426060d161a7ba568adc14b9bc81592a8b845fd714",
+    "bin": "scc.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/boyter/scc/releases/download/v$version/scc-$version-x86_64-pc-windows.zip"
+    }
 }
