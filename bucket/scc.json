@@ -5,9 +5,9 @@
         "identifier": "MIT",
         "url": "https://github.com/boyter/scc/blob/master/LICENSE"
     },
-    "version": "2.13.0",
-    "url": "https://github.com/boyter/scc/releases/download/v2.13.0/scc-2.13.0-x86_64-pc-windows.zip",
-    "hash": "e71fffafb302b6ae4571ef426060d161a7ba568adc14b9bc81592a8b845fd714",
+    "version": "3.0.0",
+    "url": "https://github.com/boyter/scc/releases/download/v3.0.0/scc-3.0.0-x86_64-pc-windows.zip",
+    "hash": "f3972acf03c09ff836071d1d173cb49281c8bc0f9682217118565ca62c5559b8",
     "bin": "scc.exe",
     "checkver": "github",
     "autoupdate": {
