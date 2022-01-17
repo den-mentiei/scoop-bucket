@@ -5,9 +5,9 @@
         "identifier": "GPL",
         "url": "https://raw.githubusercontent.com/cplussharp/graph-studio-next/master/GPL.txt"
     },
-    "version": "0.7.2",
+    "version": "0.7.3",
     "url": "https://ci.appveyor.com/api/projects/cplussharp/graph-studio-next/artifacts/bin/graphstudionext64.exe?job=Environment%3A%20CONFIGURATION%3DRelease%2C%20PLATFORM%3Dx64",
-    "hash": "b356c5a4a7f5645b974f139eaea1429d01006647102e7d8aa90d7294dc09d959",
+    "hash": "36cda996b6b51e95dc03a32847f4400384482dd925dada8672aea0147c062328",
     "bin": "graphstudionext64.exe",
     "checkver": {
         "url": "https://raw.githubusercontent.com/cplussharp/graph-studio-next/master/src/VersionNo.h",
