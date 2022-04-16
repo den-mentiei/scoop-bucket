@@ -20,7 +20,7 @@
   ],
   "checkver": {
     "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-$majorVersion/",
-    "re": "emacs-([\\d\\w.-]+).zip",
+    "regex": "emacs-([\\d\\w.-]+).zip",
     "reverse": true
   },
   "autoupdate": {
